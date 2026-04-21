@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shakirlukmal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
 
-### ✍️ Random Dev Quote
+### ✍️ Random Ahhh Quote
 <p align="center">
   <img src="./githubshi.svg">
 </p>
