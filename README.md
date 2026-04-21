@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shakirlukmal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://github.com/shakirlukmal/shakirlukmal/edit/main/githubshi.svg)
+<p align="center">
+  <img src="./githubshi.svg">
+</p>
 
 ---
 [![](https://komarev.com/ghpvc/?username=shakirlukmal&icon=0&color=0)](https://visitcount.itsvg.in)
