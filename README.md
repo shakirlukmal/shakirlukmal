@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img  width="25%" src="https://github-readme-stats.shion.dev/api?username=shakirlukmal&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
-  <img width="25%" src="https://streak-stats.demolab.com/?user=shakirlukmal&theme=dark&hide_border=false">
+  <img  width="30%" src="https://github-readme-stats.shion.dev/api?username=shakirlukmal&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
+  <img width="30%" src="https://streak-stats.demolab.com/?user=shakirlukmal&theme=dark&hide_border=false"><br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shakirlukmal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
 
